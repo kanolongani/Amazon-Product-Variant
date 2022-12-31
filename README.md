@@ -1,1 +1,3 @@
 # Amazon-Product-Variant
+
+Using Selenium, a web scraping tool, I was able to extract data from an Amazon webpage. Specifically, I navigated to the desired webpage and used Selenium's webdriver to interact with the page's elements, such as clicking on buttons or entering search queries. With the help of Selenium's built-in methods and functions, I was able to extract the desired information from the webpage and store it for further analysis or use. This process allowed me to quickly and efficiently gather data from the Amazon website without having to manually navigate and gather the information myself.
